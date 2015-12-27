@@ -1,0 +1,29 @@
+{
+  "name": "javascript_node_sandbox",
+  "version": "1.0.0",
+  "description": "A basic node application set up with gulp and BrowserSync. This is useful as a starting point for NodeJS hosted JS applications.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freshcutdevelopment/javascript_node_sandbox.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS"
+  ],
+  "author": "Sean Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freshcutdevelopment/javascript_node_sandbox/issues"
+  },
+  "homepage": "https://github.com/Freshcutdevelopment/javascript_node_sandbox#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4"
+  }
+}
